@@ -1,2 +1,1 @@
-# SQL-Project
-teast
+ -- SQL Exploratory Data Analysis (EDA) Project
